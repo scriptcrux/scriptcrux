@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aman 👋</h1>
 
-🚀 **Senior SDET | Test Automation | API & Performance Testing**  
+🚀 **Freelance Consultant|Lead SDET | Test Automation | API & Performance Testing**  
 🔹 Passionate about building scalable test automation frameworks for **Web, API, and Mobile**  
 🔹 Experienced with **WebdriverIO, Cypress, Playwright, Selenium, Rest Assured, Supertest, Artillery**  
 🔹 CI/CD & DevOps: **Jenkins, GitHub Actions, Docker, AWS**  
