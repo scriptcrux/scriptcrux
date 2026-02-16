@@ -29,7 +29,7 @@
 
 ### 📫 **Get in Touch**
 📧 Email: [scriptcrux.tech@gmail.com](mailto:scriptcrux.tech@gmail.com)  
-🔗 Portfolio: [scriptCrux](https://test.scriptcrux.in)  
+🔗 Portfolio: [scriptCrux](https://qa.scriptcrux.in)  
 💼 LinkedIn: [ScriptCrux](https://www.linkedin.com/in/aman-p-a05193350/)  
 
 ---
